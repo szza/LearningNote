@@ -10,7 +10,7 @@
     + 链接器:把函数库中的相应代码组合到目标文件中  
         *`gcc hello.o -o hello`*  
 
-    编译过程：![编译过程](Image\complie.png)
+    编译过程：![编译过程](./Image/complie.png)
 
 2. gcc 参数
 

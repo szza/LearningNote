@@ -19,7 +19,7 @@
 
     + *`printf`*  
     *`printf`* 函数完成的工作流程如下图所示。
-        ![*`printf`* 工作流程](https://github.com/szza/LearningNote/tree/master/APUE/Image/printf.jpg)  
+        ![*`printf`* 工作流程](./Image/printf.jpg)  
          *`printf`*  调用后，会产生一个由系统维护的一个结构体，包含了
         ```cpp  
         file description 文件描述符号
@@ -32,7 +32,7 @@
 
 2. **虚拟地址空间**  
     模型如图：  
-        ![虚拟地址模型](https://github.com/szza/LearningNote/tree/master/APUE/Image/virtual_address.jpg)
+        ![虚拟地址模型](./Image/virtual_address.jpg)
 
     + 可执行程序(*`elf格式`*)包括：  
         + *`.text`*:代码段
