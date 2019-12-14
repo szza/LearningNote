@@ -1,0 +1,2 @@
+add_executable(Exception_unitest  Exception_test.cc)
+target_link_libraries(Exception_unitest muduo_base)
