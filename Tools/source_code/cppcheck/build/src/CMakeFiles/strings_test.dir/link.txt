@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -D_FILE_OFFSET_BITS=64 -Wall -O0   CMakeFiles/strings_test.dir/string_.cpp.o  -o ../bin/strings_test 

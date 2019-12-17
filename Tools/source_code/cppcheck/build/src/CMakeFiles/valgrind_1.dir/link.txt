@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -D_FILE_OFFSET_BITS=64 -Wall -O0   CMakeFiles/valgrind_1.dir/valgrind_1.cc.o  -o ../bin/valgrind_1 

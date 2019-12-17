@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libmuduo_base.a  CMakeFiles/muduo_base.dir/Exception.cc.o
+/usr/bin/ranlib ../../lib/libmuduo_base.a
