@@ -4,8 +4,9 @@
 + 工具学习
     + [x] **`CMake`** 
     + [x] 代码检测
-    + [x] vim使用
+    + [x] `vim`使用
     + [x] 智能指针`std::weak_ptr`
+    + [x] **`pragma`**
 + moduo
     + [x] 基础库
     + [x] 网络库
