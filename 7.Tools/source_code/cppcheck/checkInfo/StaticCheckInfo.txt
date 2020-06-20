@@ -1,0 +1,3 @@
+[src/string_.cpp:12]: (error) Memory leak: pt
+[src/valgrind_1.cc:6]: (error) Memory leak: ptr
+[src/valgrind_2.cc:8]: (error) Uninitialized variable: s

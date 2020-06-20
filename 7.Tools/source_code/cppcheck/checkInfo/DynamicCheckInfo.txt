@@ -1,0 +1,24 @@
+==112044== Memcheck, a memory error detector
+==112044== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==112044== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==112044== Command: ./strings_test
+==112044== Parent PID: 112043
+==112044== 
+==112044== 
+==112044== HEAP SUMMARY:
+==112044==     in use at exit: 1 bytes in 1 blocks
+==112044==   total heap usage: 2 allocs, 1 frees, 72,705 bytes allocated
+==112044== 
+==112044== 1 bytes in 1 blocks are definitely lost in loss record 1 of 1
+==112044==    at 0x4C3017F: operator new(unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==112044==    by 0x1087A2: main (string_.cpp:11)
+==112044== 
+==112044== LEAK SUMMARY:
+==112044==    definitely lost: 1 bytes in 1 blocks
+==112044==    indirectly lost: 0 bytes in 0 blocks
+==112044==      possibly lost: 0 bytes in 0 blocks
+==112044==    still reachable: 0 bytes in 0 blocks
+==112044==         suppressed: 0 bytes in 0 blocks
+==112044== 
+==112044== For counts of detected and suppressed errors, rerun with: -v
+==112044== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
