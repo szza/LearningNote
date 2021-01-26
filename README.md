@@ -1,26 +1,12 @@
 # LearningNote
-+ LINUX系统编程
-+ 操作系统
-+ 网络编程
-+ 工具学习
-    + [x] **`CMake`** 
-    + [x] 代码检测
-    + [x] `vim`使用
-    + [x] **`pragma`**
-    + [x] `namespace`
-+ 开源项目
-  + moduo
-    + [x] `TcpConnection` 的生命周期分析
-    + [x] 连接对象的时序分析 
-    + [x] `Buffer` 与 应用层的流量控制分析
-  + Libuv 
-    + 与 `muduo` 进行对比分析理解
-  + `rapidJson` 
-    + 各个流的简要分析
-+ 设计模式
-    + [x] 设计原则
-    + [x] 组件协作系列模式
-    + [x] 单一职责系列模式
-    
- ---
- 等写完毕业论文再将秋招中的算法总结、C++知识以及一些项目总结更新
+
+这个仓库中 **面试总结**、**数据结构与算法**  是秋招过程中的总结，其余几个类别是学习过程中琐事总结。
+
++ [`Linxu`系统编程视频](https://www.bilibili.com/video/BV1dt411f7TZ?p=3)
++ [操作系统视频](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=6559705588340463788)
++ [网络编程视频](https://www.bilibili.com/video/BV1eb411F74G)
++ 开源项目笔记
+  + [Moduo视频讲解](https://www.bilibili.com/video/BV11b411q7zr)
+  + [Redis总结笔记](https://szza.github.io/)
++ [设计模式视频](https://www.bilibili.com/video/BV1kW411P7KS?from=search&seid=1006917398839692361)
+
