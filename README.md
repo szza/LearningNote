@@ -11,6 +11,6 @@
 
 后续在个人微信公众号更新更多C++及其后端知识,欢迎关注：`look_code_art`
 
-![Lokker](https://github.com/szza/LearningNote/blob/master/looker.jpg)
+![Looker](https://github.com/szza/LearningNote/blob/master/looker.jpg)
 
 
