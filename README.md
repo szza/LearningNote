@@ -9,7 +9,7 @@
 + [设计模式视频](https://www.bilibili.com/video/BV1kW411P7KS?from=search&seid=1006917398839692361)
 
 
-欢迎关注我的个人微信公众号，继续更新C++及后端的知识。
+后续在个人微信公众号更新更多C++及其后端知识,欢迎关注：`look_code_art`
 
 ![Lokker](https://github.com/szza/LearningNote/blob/master/looker.jpg)
 
