@@ -8,3 +8,9 @@
 + [Moduo视频讲解](https://www.bilibili.com/video/BV11b411q7zr)
 + [设计模式视频](https://www.bilibili.com/video/BV1kW411P7KS?from=search&seid=1006917398839692361)
 
+
+欢迎关注我的个人微信公众号，继续更新C++及后端的知识。
+
+![](./looker.jpg)
+
+
