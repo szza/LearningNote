@@ -9,6 +9,8 @@
 + [设计模式视频](https://www.bilibili.com/video/BV1kW411P7KS?from=search&seid=1006917398839692361)
 
 > 在微信公众号：`look_code_art`，有更多硬核C++ & Linux 后端技术、学习交流群，欢迎也来关注下吧！！！
+> 
+> 【面试总结】中，更加详细地更新在公众号中，欢迎关注。
 
 ![Looker](https://github.com/szza/LearningNote/blob/master/looker.jpg)
 
