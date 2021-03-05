@@ -1,6 +1,6 @@
 # LearningNote
 
-这个仓库中 **面试总结**、**数据结构与算法**  是秋招过程中的总结，其余几个类别是学习过程中琐事总结。
+这个仓库中 **[面试总结](https://github.com/szza/LearningNote/tree/master/1.%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93)**、**[数据结构与算法](https://github.com/szza/LearningNote/tree/master/2.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)**  是秋招过程中的总结，其余几个类别是学习过程中琐事总结。以下是自己学习过程中收集的视频资源：
 
 + [Linux 系统编程视频](https://www.bilibili.com/video/BV1dt411f7TZ?p=3)
 + [操作系统视频](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=6559705588340463788)
@@ -10,7 +10,7 @@
 
 ---
 
-后续已经更新：
+后续更新：
 
 ### 学习路线
 + [C++ & Linux后端进BAT的学习路线](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247483878&idx=1&sn=41660c3f2567fa1cfb796ca8215f62ac&chksm=c1f68fd7f68106c196e7ccf1c60826434240e54c6a2b4530fc705dda7232d4bee513e7bce4fb&token=327902945&lang=zh_CN#rd)
