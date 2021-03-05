@@ -31,10 +31,6 @@
 ### 多线程编程实践
 + [从thread开始，迈入多线程的大门](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247484579&idx=1&sn=07ffd2a0b7cb37c739387e2e3327641b&chksm=c1f68a92f6810384c314254b36b0d188a61b87ad52c3503ca7d4282be78a050fbc85a4549aed&token=327902945&lang=zh_CN#rd)
 
-...
-
----
-
-在微信公众号：`look_code_art`，有更多硬核C++ & Linux 后端技术、学习交流群，欢迎也来关注下吧！！！
+后续更新，首发于个人技术号：
 
 <img src="https://github.com/szza/LearningNote/blob/master/looker.jpg" alt="id_2" style="zoom: 33%;" />
