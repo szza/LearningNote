@@ -34,8 +34,6 @@
 
 ---
 
-后续更新，首发于个人技术号，欢迎关注。更多硬核知识等你发现：
-
-
+后续更新，首发于个人技术号 `look_code_art`，欢迎关注。更多硬核知识等你发现：
 
 ![](https://github.com/szza/LearningNote/blob/master/looker.jpg)
