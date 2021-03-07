@@ -38,4 +38,4 @@
 
 
 
-<img src="https://github.com/szza/LearningNote/blob/master/looker.jpg" alt="id_2" style="zoom: 33%;" />
+![](https://github.com/szza/LearningNote/blob/master/looker.jpg)
