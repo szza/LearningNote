@@ -28,7 +28,9 @@
 + [编译器优化之copy elision、RVO](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247484605&idx=1&sn=52205144a7a9819e4a8f181eccec7914&chksm=c1f68a8cf681039a0d5c454dd1b0d1899ba15d4fd99ddc0d1885a7b93cb3b5b4b6f53c9d5ca3&token=327902945&lang=zh_CN#rd)
 + [提高C++程序员的自我修养 from 剖析STL内存分配器](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247484735&idx=1&sn=c67b3f2acfb10d991f5a78ab4aee3162&chksm=c1f68b0ef681021899c96c3c88b4459fe436551fafc28f85fb60504b091228f54787f8d1ff76&token=327902945&lang=zh_CN#rd)
 + [编译器优化之 Empty Base Class Optimization](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247484770&idx=1&sn=460a07d3abaec0ca0d88721c7fb4d2fb&chksm=c1f68b53f68102454080b37505a904bc15cdb3c147773132f93b80c167b26afea44e9735e999&token=327902945&lang=zh_CN#rd)
-
++ [走近 std::tuple，揭秘异质容器](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247485249&idx=1&sn=f395397f1621cf8a4d897d0213ca1788&chksm=c1f68970f68100666cbb65313780797bc65490703dac02a9603e0b9733fa01db270ca445f0e6&token=760577494&lang=zh_CN#rd)
++ [走近vtpr、vtbl，揭秘动态多态](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247485303&idx=1&sn=985f6128d6910a3f7376f10b61ce03f7&chksm=c1f68946f6810050e21b70ff44e7f302f355e63213a5139aaaf9b482ce44a13b9c98efcb68e4&token=760577494&lang=zh_CN#rd)
++ [ 走近 name mangling，揭秘函数重载本质](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247485446&idx=1&sn=ddfa5f808fc229e854f4b0512c78b28c&chksm=c1f68637f6810f21f6028bfa32c6e933c1fd4011ed92fc4248328381db1d87c459b935e1d891&token=760577494&lang=zh_CN#rd)
 ### 多线程编程实践
 + [从thread开始，迈入多线程的大门](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247484579&idx=1&sn=07ffd2a0b7cb37c739387e2e3327641b&chksm=c1f68a92f6810384c314254b36b0d188a61b87ad52c3503ca7d4282be78a050fbc85a4549aed&token=327902945&lang=zh_CN#rd)
 
